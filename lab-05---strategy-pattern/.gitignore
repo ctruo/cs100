@@ -1,0 +1,10 @@
+test
+
+CMakeCache.txt
+CMakeFiles/
+Makefile
+a.out
+cmake_install.cmake
+lib/
+spreadsheet
+program

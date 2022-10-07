@@ -1,0 +1,14 @@
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+lib/
+testcommand
+test
+main
+testTask
+testProject
+commandvalgrind
+compositevalgrind
+compositevalgrindcomp
+testStrategy
